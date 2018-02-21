@@ -1,0 +1,12 @@
+{ 
+  "data" :  { 
+    "usuario" : "camilarondinini", 
+    "tipo-plano" : "cuenta-premium",
+    "preferencias" : {
+      "a" : true, 
+      "b" : false
+    }, 
+    "semana" : 1,
+    "alergias" : [ "gluten" ]
+  }
+}
